@@ -1,0 +1,11 @@
+{
+"product":[
+     { "id":1,
+       "name":"mackbook"
+     },
+     { "id":2,
+       "name":"hp pavilion"  
+     }
+          ]
+
+}
